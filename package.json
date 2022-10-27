@@ -1,0 +1,14 @@
+{
+  "name": "bw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "correios-brasil": "^3.0.2"
+  }
+}
